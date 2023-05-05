@@ -1,0 +1,19 @@
+{
+  "name": "ai-file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "xqz",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
